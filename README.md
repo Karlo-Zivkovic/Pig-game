@@ -2,7 +2,7 @@
 One of the starting projects. Dom selection, eventListeners. Basic javascript.
 <br />
 
-<h2>Languages and Utilities Used</h2>
+<h2>Libraries and Utilities Used</h2>
 
 - <b>Javascript</b>
 
