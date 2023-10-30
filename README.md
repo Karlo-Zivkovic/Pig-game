@@ -1,5 +1,5 @@
 <h1>Description</h1>
-One of the starting projects. Dom selection, eventListeners. Basic javascript.
+Dom selection, eventListeners. Basic javascript.
 <br />
 
 <h2>Libraries and Utilities Used</h2>
@@ -9,3 +9,7 @@ One of the starting projects. Dom selection, eventListeners. Basic javascript.
 <h2>HOW TO START:</h2>
 
 - <b>Live server extension (Open with live server)</b>
+
+<h2>Project screenshot</h2>
+
+<img src="https://i.imgur.com/SJOvpSh.png" height="80%" width="80%" alt="game layout"/>
